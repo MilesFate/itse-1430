@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{5BBA9AC1-1518-4DC9-90A0-6AEF56F0A75F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieLibrary.ConsoleHost", "MovieLibrary.ConsoleHost\MovieLibrary.ConsoleHost.csproj", "{9FAACAEF-7F62-4458-8E21-F0A69CD22720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BBA9AC1-1518-4DC9-90A0-6AEF56F0A75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BBA9AC1-1518-4DC9-90A0-6AEF56F0A75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BBA9AC1-1518-4DC9-90A0-6AEF56F0A75F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FAACAEF-7F62-4458-8E21-F0A69CD22720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FAACAEF-7F62-4458-8E21-F0A69CD22720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FAACAEF-7F62-4458-8E21-F0A69CD22720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FAACAEF-7F62-4458-8E21-F0A69CD22720}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {441F6018-EA23-4754-BAF1-7B9AFD33D06F}
+	EndGlobalSection
+EndGlobal

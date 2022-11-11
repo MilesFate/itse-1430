@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Product>MovieLibrary</Product>
+    <Company>Luisalberto Castanesa</Company>
+    <Description>ITSE-1430 Fall 2021</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MovieLibrary.SQL\MovieLibrary.Sql.csproj" />
+    <ProjectReference Include="..\MovieLibrary\MovieLibrary.csproj" />
+  </ItemGroup>
+
+</Project>
