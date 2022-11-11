@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LuisalbertoCastaneda.AdventureGame.WinHost", "LuisalbertoCastaneda.AdventureGame.WinHost\LuisalbertoCastaneda.AdventureGame.WinHost.csproj", "{C2009120-6DA5-4C5B-87E4-13590B0E894B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LuisalbertoCastaneda.CharacterCreator", "LuisalbertoCastaneda.CharacterCreator\LuisalbertoCastaneda.CharacterCreator.csproj", "{9B9F838A-C129-43B4-A880-561AA0DA174C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2009120-6DA5-4C5B-87E4-13590B0E894B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2009120-6DA5-4C5B-87E4-13590B0E894B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2009120-6DA5-4C5B-87E4-13590B0E894B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2009120-6DA5-4C5B-87E4-13590B0E894B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B9F838A-C129-43B4-A880-561AA0DA174C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9F838A-C129-43B4-A880-561AA0DA174C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9F838A-C129-43B4-A880-561AA0DA174C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9F838A-C129-43B4-A880-561AA0DA174C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B472C447-9CFA-4A15-9AB3-FB96B8AEEFF1}
+	EndGlobalSection
+EndGlobal
